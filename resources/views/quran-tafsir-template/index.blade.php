@@ -30,16 +30,16 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span
                         class="icon-bar"></span><span class="icon-bar"></span><span
                         class="icon-bar"></span></button>
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <img src="assets/images/logo.png" alt="Techro HTML5 template"></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav pull-right mainNav">
-                    <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="courses.html">Courses</a></li>
-                    <li><a href="price.html">Price</a></li>
-                    <li><a href="videos.html">Videos</a></li>
+                    <li class="active"><a href="/">Home</a></li>
+                    <li><a href="/">About</a></li>
+                    <li><a href="/">Courses</a></li>
+                    <li><a href="/">Price</a></li>
+                    <li><a href="/">Videos</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b
                                 class="caret"></b></a>
@@ -50,7 +50,7 @@
                             <li><a href="#">Dummy Link3</a></li>
                         </ul>
                     </li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="/">Contact</a></li>
                     <li><a href="/login">Login</a></li>
 
                 </ul>
@@ -366,7 +366,7 @@
                     <div class="col-md-6 panel">
                         <div class="panel-body">
                             <p class="simplenav">
-                                <a href="index.html">Home</a> |
+                                <a href="/">Home</a> |
                                 <a href="about.html">About</a> |
                                 <a href="courses.html">Courses</a> |
                                 <a href="price.html">Price</a> |
